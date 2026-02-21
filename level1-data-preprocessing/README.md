@@ -82,28 +82,28 @@ text
 - Train-test split importance for model evaluation
 
 ### 🔗 Links
-- [GitHub Repository](your-repo-link)
-- [LinkedIn Post](your-linkedin-post-link)
+- [GitHub Repository](https://github.com/Pantane1/ml-martin-intern-road/level1-data-preprocessing)
+- [LinkedIn Post](https://www.linkedin.com/posts/pantane_denjagidev-codvedajourney-codvedaexperience-activity-7430906558240145408-Rsyh?utm_source=share&utm_medium=member_android&rcm=ACoAAFWQ7TMBh2D_Xw7HHb6_uSj4SFbyTS2SZmI)
 
 ### 📧 Contact
-- **Email**: your-email@example.com
-- **LinkedIn**: [Your Profile](linkedin-link)
+ **ReachMe**: [pantane](https://nf-d.netlify.app/)
+- **LinkedIn**: [W-Martin](https://www.linkedin.com/in/pantane?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ### 🏷️ Hashtags
 #CodvedaJourney #CodvedaExperience #FutureWithCodveda #MachineLearning #DataPreprocessing #Python #ScikitLearn
 Step 5: Git Commands
 bash
 #### Initialize git repository
-git init
-Add all files
-git add .
-Commit
-git commit -m "Initial commit: Data preprocessing for house price prediction"
-Add remote (replace with your repo URL)
-git remote add origin https://github.com/yourusername/level-1-task-1.git
-Push
-git branch -M main
-git push -u origin main
+-git init
+-Add all files
+-git add .
+-Commit
+-git commit -m "Initial commit: Data preprocessing for house price prediction"
+-Add remote 
+-git remote add origin https://github.com/pantane1/level-1-task-1.git
+-Push
+-git branch -M main
+-git push -u origin main
 
 
 <p align="center">
