@@ -152,7 +152,13 @@ Throughout this internship, I'm gaining hands-on experience with:
 This project is part of the **Codveda Technology Internship Program**. All code is open-source for learning purposes.
 
 ---
+<p align="center">
+  <a href="#"><img src="https://github.com/Pantane1/nf/blob/main/public/ph.png" alt="ph-logo">
+</p>
 
+<p align="center">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ACAF50&center=true&vCenter=true&multiline=false&lines=PantaneHUb+in+partnership+with+Codveda-Technologies" alt="partnership-p/c">
+</p>
 <div align="center">
   <h3>⭐ Star this repository to follow my progress!</h3>
   <p>Made with ❤️ during Codveda Internship</p>
