@@ -93,18 +93,23 @@ text
 #CodvedaJourney #CodvedaExperience #FutureWithCodveda #MachineLearning #DataPreprocessing #Python #ScikitLearn
 Step 5: Git Commands
 bash
-# Initialize git repository
+#### Initialize git repository
 git init
-
-# Add all files
+Add all files
 git add .
-
-# Commit
+Commit
 git commit -m "Initial commit: Data preprocessing for house price prediction"
-
-# Add remote (replace with your repo URL)
+Add remote (replace with your repo URL)
 git remote add origin https://github.com/yourusername/level-1-task-1.git
-
-# Push
+Push
 git branch -M main
 git push -u origin main
+
+
+<p align="center">
+  <a href="#"><img src="https://github.com/Pantane1/nf/blob/main/public/ph.png" alt="ph-logo">
+</p>
+
+<p align="center">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ACAF50&center=true&vCenter=true&multiline=false&lines=Built+Different" alt="pantane">
+</p>
