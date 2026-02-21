@@ -82,7 +82,7 @@ text
 - Train-test split importance for model evaluation
 
 ### 🔗 Links
-- [GitHub Repository](https://github.com/Pantane1/ml-martin-intern-road/level1-data-preprocessing)
+- [GitHub Repository](https://github.com/Pantane1/ml-martin-intern-road/tree/main/level1-data-preprocessing)
 - [LinkedIn Post](https://www.linkedin.com/posts/pantane_denjagidev-codvedajourney-codvedaexperience-activity-7430906558240145408-Rsyh?utm_source=share&utm_medium=member_android&rcm=ACoAAFWQ7TMBh2D_Xw7HHb6_uSj4SFbyTS2SZmI)
 
 ### 📧 Contact
