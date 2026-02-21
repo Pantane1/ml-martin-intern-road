@@ -157,7 +157,7 @@ This project is part of the **Codveda Technology Internship Program**. All code 
 </p>
 
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ACAF50&center=true&vCenter=true&multiline=false&lines=PantaneHUb+in+partners+with+Codveda" alt="partnership-p/c">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=7851A9&center=true&vCenter=true&multiline=false&lines=PantaneHUb+in+partners+with+Codveda" alt="partnership-p/c">
 </p>
 <div align="center">
   <h3>⭐ Star this repository to follow my progress!</h3>
