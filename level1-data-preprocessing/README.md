@@ -86,7 +86,7 @@ text
 - [LinkedIn Post](https://www.linkedin.com/posts/pantane_denjagidev-codvedajourney-codvedaexperience-activity-7430906558240145408-Rsyh?utm_source=share&utm_medium=member_android&rcm=ACoAAFWQ7TMBh2D_Xw7HHb6_uSj4SFbyTS2SZmI)
 
 ### 📧 Contact
- **ReachMe**: [pantane](https://nf-d.netlify.app/)
+- **ReachMe**: [pantane](https://nf-d.netlify.app/)
 - **LinkedIn**: [W-Martin](https://www.linkedin.com/in/pantane?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ### 🏷️ Hashtags
@@ -100,7 +100,7 @@ bash
 -Commit
 -git commit -m "Initial commit: Data preprocessing for house price prediction"
 -Add remote 
--git remote add origin https://github.com/pantane1/level-1-task-1.git
+-git remote [add origin](https://github.com/pantane1/level-1-task-1.git)
 -Push
 -git branch -M main
 -git push -u origin main
