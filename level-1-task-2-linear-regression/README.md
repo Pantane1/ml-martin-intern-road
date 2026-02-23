@@ -108,8 +108,8 @@ House Price = 22.53 + 3.81 × RM - 0.95 × LSTAT + 0.92 × DIS + ...
    
 
 ### 📧 Contact
-- **[Pantane HUb](https://nf-d.netlify.app/)**
-- **LinkedIn**: [W-Martin](https://www.linkedin.com/in/pantane?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- **Reach Me: [Pantane HUb](https://nf-d.netlify.app/)**
+- **LinkedIn: [W-Martin](https://www.linkedin.com/in/pantane?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)**
 
 ```
 
