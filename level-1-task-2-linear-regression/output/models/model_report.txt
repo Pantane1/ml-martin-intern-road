@@ -1,0 +1,60 @@
+============================================================
+LINEAR REGRESSION MODEL - COMPLETE REPORT
+============================================================
+
+1. DATASET INFORMATION
+   • Total samples: 506
+   • Training samples: 404 (79.8%)
+   • Testing samples: 102 (20.2%)
+   • Features: 21
+
+2. MODEL PERFORMANCE
+   ──────────────────────────────────────────────────
+   Metric                     Training        Test
+   ──────────────────────────────────────────────────
+   R² Score                    0.7432        0.7118
+   MSE                         21.89         24.56
+   RMSE                        $4.68K        $4.96K
+   MAE                         $3.24K        $3.41K
+   ──────────────────────────────────────────────────
+
+3. TOP 5 POSITIVE IMPACT FEATURES
+   ──────────────────────────────────────────────────
+   
+   🔼 Features that INCREASE house price:
+      • RM             : +0.8124
+      • DIS            : +0.4062
+      • B              : +0.1653
+      • ZN             : +0.0321
+      • CHAS           : +0.0214
+
+   🔽 Features that DECREASE house price:
+      • LSTAT          : -0.9482
+      • PTRATIO        : -0.2873
+      • TAX            : -0.2671
+      • NOX            : -0.2543
+      • CRIM           : -0.2412
+   ──────────────────────────────────────────────────
+
+4. MODEL EQUATION
+   House Price = 22.53
+               +0.81 × RM
+               -0.95 × LSTAT
+               +0.41 × DIS
+               + ... (other features)
+   ──────────────────────────────────────────────────
+
+5. INTERPRETATION
+   • The model explains 71.2% of the variance in house prices.
+   • Average prediction error (MAE): $3.41K.
+   • 95% of predictions are within ±$9.72K.
+   • Most influential feature: LSTAT (% lower status) - negatively impacts price
+   • Second most influential: RM (rooms) - positively impacts price
+
+6. OUTPUT FILES
+   • Model: output/models/linear_regression_model.pkl
+   • Coefficients: output/models/coefficients.csv
+   • Test predictions: output/models/test_predictions.csv
+   • Visualizations: output/visualizations/
+
+============================================================

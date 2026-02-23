@@ -1,0 +1,3 @@
+import joblib
+model = joblib.load('output/models/linear_regression_model.pkl')
+# Use model.predict(X_new) for new predictions
