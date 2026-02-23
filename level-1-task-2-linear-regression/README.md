@@ -1,5 +1,5 @@
 # 🏠 House Price Prediction - Linear Regression Model
-## Level 1 - Task 2: Build a Simple Linear Regression Model (Standalone Project)
+## Level 1 - Task 2: Build a Simple Linear Regression Model
 
 ### 📋 Task Description
 Build a linear regression model from scratch to predict house prices using the Boston Housing dataset. This is a complete standalone project with its own preprocessing and modeling pipeline.
@@ -104,12 +104,13 @@ House Price = 22.53 + 3.81 × RM - 0.95 × LSTAT + 0.92 × DIS + ...
 ```
 
 ### 🏷️ Hashtags
-#CodvedaJourney #CodvedaExperience #FutureWithCodveda #MachineLearning #LinearRegression #Python #DataScience #AI #BostonHousing
+[#denjagidev](https://wamuhu-martin.vercel.app/#) [#CodvedaJourney](https://www.linkedin.com/posts/pantane_denjagidev-codvedajourney-codvedaexperience-activity-7430906558240145408-Rsyh?utm_source=share&utm_medium=member_android&rcm=ACoAAFWQ7TMBh2D_Xw7HHb6_uSj4SFbyTS2SZmI)  [#CodvedaExperience](https://codveda.com/) [#FutureWithCodveda](https://www.linkedin.com/company/codveda-technologies/) [#MachineLearning](https://docs.google.com/forms/d/e/1FAIpQLSeDPD-A_5tMzzWz5LG-LyvcsBm3yiRPfePARfidSdWbicK5Pg/alreadyresponded) [#Python](https://www.linkedin.com/showcase/pythoneyehunts/) [#ScikitLearn]() [#LinearRegression]() [#BostonHousing]() [#AI]()
+   
 
 ### 📧 Contact
-- **LinkedIn**: [Your Profile](linkedin-link)
-- **GitHub**: [Your Profile](github-link)
-- **Email**: your.email@example.com
+- **[Pantane HUb](https://nf-d.netlify.app/)**
+- **LinkedIn**: [W-Martin](https://www.linkedin.com/in/pantane?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
 ```
 
 ## 🚀 How to Run Everything
